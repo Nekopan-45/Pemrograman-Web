@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0px;
+ }
+.Header{
+    background-color: darkblue;
+    height: 100px;
+    color: gray;
+    width: auto;
+}
+.Header-Home {
+    list-style: none;
+    float: right;
+    padding: 33px 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+}
+.Header-Talent, .Header-News{
+    list-style: none;
+    float: right;
+    padding: 33px 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.6;
+}
+.Header-Logo{
+    height: 70px;
+    width: 300px;
+    padding: 15px 30px;
+    float: left;
+}
+.Header-title{
+    color: yellow;
+    font-size: 50px;
+    float: left;
+    padding: 20px 200px;
+    font-family: "Lemon Milk", sans-serif;
+    font-weight: 700;
+}
+.Main{
+    background-color: lightblue;
+    height: 230px;
+    padding: 100px 80px;
+}
+.Main-Konten span{
+    color: #ff4a4a;
+}
+.Main-Konten h1{
+    font-size: 100px;
+}
+.Main-Konten h2{
+    font-size: 60px;
+}
+.Footer{
+    background-color: #FFE6D2;
+    color: #000000;
+    height: 60px;
+    padding: 40px;
+}
+.Motto h3{
+    font-family: 'serif';
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+}
+.Footer-List {
+    float: right;
+}
+.Footer-List ul{
+    font-size: 16px;
+    list-style: none;
+    font-family: 'Poppins';
+}
